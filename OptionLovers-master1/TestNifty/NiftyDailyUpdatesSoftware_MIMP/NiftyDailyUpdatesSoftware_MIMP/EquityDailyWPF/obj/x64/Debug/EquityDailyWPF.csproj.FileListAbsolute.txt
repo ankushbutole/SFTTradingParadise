@@ -1,0 +1,15 @@
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\x64\Debug\EquityDailyWPF.exe.config
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\x64\Debug\EquityDailyWPF.exe
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\x64\Debug\EquityDailyWPF.pdb
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\MainWindow.g.cs
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\App.g.cs
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF_MarkupCompile.cache
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF_MarkupCompile.lref
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\MainWindow.baml
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF.g.resources
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF.Properties.Resources.resources
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF.csproj.GenerateResource.cache
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF.csproj.CopyComplete
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF.exe
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\x64\Debug\EquityDailyWPF.pdb

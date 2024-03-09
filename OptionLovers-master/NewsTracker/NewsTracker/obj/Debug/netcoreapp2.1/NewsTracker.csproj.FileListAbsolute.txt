@@ -1,0 +1,11 @@
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\bin\Debug\netcoreapp2.1\NewsTracker.deps.json
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\bin\Debug\netcoreapp2.1\NewsTracker.runtimeconfig.json
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\bin\Debug\netcoreapp2.1\NewsTracker.runtimeconfig.dev.json
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\bin\Debug\netcoreapp2.1\NewsTracker.dll
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\obj\Debug\netcoreapp2.1\NewsTracker.csprojAssemblyReference.cache
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\obj\Debug\netcoreapp2.1\NewsTracker.csproj.CoreCompileInputs.cache
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\obj\Debug\netcoreapp2.1\NewsTracker.AssemblyInfoInputs.cache
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\obj\Debug\netcoreapp2.1\NewsTracker.AssemblyInfo.cs
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\bin\Debug\netcoreapp2.1\NewsTracker.pdb
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\obj\Debug\netcoreapp2.1\NewsTracker.dll
+C:\Users\butolea\source\repos\NewsTracker\NewsTracker\obj\Debug\netcoreapp2.1\NewsTracker.pdb

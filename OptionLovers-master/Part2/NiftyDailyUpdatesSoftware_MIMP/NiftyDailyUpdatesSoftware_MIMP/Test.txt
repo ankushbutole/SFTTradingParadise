@@ -1,0 +1,5 @@
+ Score is 54.0, stock is technically neutral. Stocks with score 
+                above 70 are considered as technically Strong and below 35 are considered weak.
+				
+ Score is 29.0, stock is technically weak. Stocks with score 
+                below 35 or in the bottom 30% are considered as technically weak				

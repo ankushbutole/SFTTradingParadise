@@ -1,0 +1,105 @@
+
+Reyansh session 1:
+Decisions at breakout only.
+If breakout has to fail next one or two candles will decide.
+put side more loss.
+upside ---sidiose jati hai
+https://www.5paisa.com/school/chart-pattern-breakouts
+when fall- sb gravity forces aajaty.
+Put side fear always.
+
+********Safety + profit**********
+
+Dont try to find trade in every candle
+
+vix fear napta hai.
+thetagainers@gmail.com
+High IV can be used when defined high IV. Can sell at both sides.
+Should not used high IV on undefined day like corona.
+IV- 18 to 25--Good for option sellers.
+low IV - sideways.
+
+impulse move affects delta.
+for option seling which delta value we should use.?
+
+.16 to .25 delta good.
+more safe .16 to .22
+
+Buyer is always like taking room for 2 to 3 days.
+Remeber option sellers earns money slowly.
+On expiry:
+not trade after 1 pm. Never sell.option in that case. Go for buy 
+Jodi bhav can gives us range.
+If vix increased it will surely affects next expiry.
+delta: distance * delta.
+delta-below 15 no premium, thus buyers might make use.
+For strategy-Vega going to in positive, you are in danger.
+
+Gamma is catalyst for Delta, After 1 pm , threta tries to go nearer to zero.and Thus Gamma increased try to increased delta.
+
+============================================================================================================================================
+
+Reyansh session 2 Question and Answer:
+
+when volatility increased what will happen to gamma?
+If have two strike prices having same delta, in that case we should sell the ones whichever is having low Gamma?
+
+ITM options has zero gamma.
+
+How to identify breakout, I have observed sometimes its false one, how to get rid from false breakout?
+How good volume said?
+can do trading with office work?
+
+can we add orders directly from sensibull to zerodha?
+
+For option seller does it is good to have net delat nearer to zero.?
+
+How to identify day will sideway day?
+Got answer.
+
+intrday looses because decides things too fast.
+
+ADX- 45 to 50 sideways.
+
+ADX from 45 to 60 probability of getting sideways is high.
+
+Dont chase price.
+Try to find accumulation zone/dereciation zone.
+
+Will losse in market because of psycholgy.
+Choose best probability.
+
+IV implies percentage. So can be usefull to find stop loss.
+
+Gamma is dangerous to option sellers.
+
+=============================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
