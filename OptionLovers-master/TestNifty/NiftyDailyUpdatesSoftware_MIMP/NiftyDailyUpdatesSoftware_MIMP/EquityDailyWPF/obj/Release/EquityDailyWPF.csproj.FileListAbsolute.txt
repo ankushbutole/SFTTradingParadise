@@ -1,0 +1,15 @@
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\Release\EquityDailyWPF.exe.config
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\Release\EquityDailyWPF.exe
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\Release\EquityDailyWPF.pdb
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\bin\Release\HtmlAgilityPack.dll
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\MainWindow.g.cs
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\App.g.cs
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF_MarkupCompile.cache
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF_MarkupCompile.lref
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\MainWindow.baml
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF.g.resources
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF.Properties.Resources.resources
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF.csproj.GenerateResource.cache
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF.csproj.CopyComplete
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF.exe
+C:\Ankush\Stocks\NiftyDailyUpdatesSoftware\NiftyDailyUpdatesSoftware\EquityDailyWPF\obj\Release\EquityDailyWPF.pdb

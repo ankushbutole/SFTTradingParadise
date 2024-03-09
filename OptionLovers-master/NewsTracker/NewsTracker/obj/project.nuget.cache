@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9c5Ky3gmb1WpnEunypCPnnbLJ8pYOaHD11fmCwewFTYE36dcobarWPNEG5LsuFMh4ILIWiYZjbX6V5Vk/XyYYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\butolea\\source\\repos\\NewsTracker\\NewsTracker\\NewsTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\butolea\\.nuget\\packages\\htmlagilitypack\\1.11.55\\htmlagilitypack.1.11.55.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\butolea\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\butolea\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\butolea\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.app\\2.1.0\\runtime.win-x64.microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\butolea\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnetapphost\\2.1.0\\runtime.win-x64.microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\butolea\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnethostpolicy\\2.1.0\\runtime.win-x64.microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\butolea\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnethostresolver\\2.1.0\\runtime.win-x64.microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

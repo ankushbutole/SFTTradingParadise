@@ -1,0 +1,42 @@
+EPS latest quarter  > EPS preceding quarter*1.25 AND
+Sales latest quarter > Sales preceding quarter*1.25 AND
+EPS > EPS last year AND
+Market Capitalization < 5000 AND
+Volume 1month average > 50000 AND
+Current price > 20 AND
+RSI > 40 AND
+Current price  > DMA 200 AND
+DMA 50 >DMA 200 AND
+EPS growth 3Years > 20%
+
+
+aur fundamental wala month end ke sath screener pr use krna wo notepad pr dala he andar dhek lena
+
+
+
+scrnner m jakee  -   month end m scan krna stock
+
+friday wednesday saturday
+
+
+
+aur vcp  k liye daily if got time after 4;30pm
+or saturday every week   
+
+
+
+scanner --  https://chartink.com/screener/stockexploder-vcp-2
+
+vcp scanner---  https://chartink.com/screener/stockexploder-vcp-2
+
+
+multi bagger positional month end --- https://chartink.com/screener/multi-bagger-stockexploder-scan
+
+
+
+
+
+
+
+
+

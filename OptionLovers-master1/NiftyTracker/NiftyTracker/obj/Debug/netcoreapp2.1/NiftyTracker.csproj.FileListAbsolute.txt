@@ -1,0 +1,13 @@
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\bin\Debug\netcoreapp2.1\NiftyTracker.deps.json
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\bin\Debug\netcoreapp2.1\NiftyTracker.runtimeconfig.json
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\bin\Debug\netcoreapp2.1\NiftyTracker.runtimeconfig.dev.json
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\bin\Debug\netcoreapp2.1\NiftyTracker.dll
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.csproj.CoreCompileInputs.cache
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.AssemblyInfoInputs.cache
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.AssemblyInfo.cs
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\bin\Debug\netcoreapp2.1\NiftyTracker.pdb
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.dll
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.pdb
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.csproj.AssemblyReference.cache
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\butolea\source\repos\NiftyTracker\NiftyTracker\obj\Debug\netcoreapp2.1\NiftyTracker.genruntimeconfig.cache
